@@ -1,4 +1,4 @@
-Hi i'm Chris Wedin aka SadSapphic, I write and program (mostly text based) video games. 
+Hi i'm Chris Wedin aka SadSapphic, I write and program video games. 
 I have a Bachelors degree in Physics with an English minor and am most proficcent working in python and C#.
 I can be reached about my games at sadsapphicgames@gmail.com
 
