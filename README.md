@@ -1,4 +1,4 @@
-Hi i'm Chris Wedin aka SadSapphic, I write and program video games. 
+Hi i'm Chris, I write and program video games. 
 I should have my next prototype, and magic inspired rougelite deckbuilder, finished by the end of the 2021.
 I can be reached about my games at sadsapphicgames@gmail.com
 
